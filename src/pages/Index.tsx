@@ -92,7 +92,7 @@ const Index = () => {
                     className="text-xl md:text-2xl text-[#666666]"
                     style={{ fontFamily: 'Montserrat, sans-serif', fontWeight: 400 }}
                   >
-                    Время будет объявлено дополнительно
+                    18:00
                   </p>
                 </div>
               </div>
